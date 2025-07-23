@@ -68,11 +68,3 @@ La respuesta al usuario se entrega en **texto o audio**, según las siguientes r
 - 🖥️ Interfaz web para gestión avanzada
 
 ---
-
-## 📸 Capturas de pantalla
-
-> Agrega capturas del flujo y del bot en la carpeta `/screenshots`.
-
-```markdown
-![Vista general del flujo en n8n](./screenshots/overview.png)
-![Conversación en Telegram](./screenshots/telegram.png)
